@@ -1,0 +1,23 @@
+# ░░░ ARCHIVOS DEL SISTEMA ░░░
+.DS_Store
+Thumbs.db
+
+# ░░░ PYTHON: Bytecode y cachés ░░░
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ░░░ ENTORNO VIRTUAL ░░░
+venv/
+.env/
+.venv/
+
+# ░░░ LOGS Y ARCHIVOS TEMPORALES ░░░
+logs/
+*.log
+PyWhatKit_DB.txt
+
+# ░░░ ARCHIVOS DE DATOS (no versionar .xlsx de envíos) ░░░
+*.xlsx
+
+
